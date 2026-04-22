@@ -1,0 +1,34 @@
+{
+  "title": "Reproducible code for 'Gaia Sees Blazars Move: Locating Optical Flares Using Astrometry'",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Plavin, Alexander V.",
+      "affiliation": "Black Hole Initiative, Harvard University",
+      "orcid": "0000-0003-2914-8554"
+    }
+  ],
+  "description": "Julia code and Makefile-based reproducible pipeline for the analysis in Plavin, 2026, 'Gaia Sees Blazars Move: Locating Optical Flares Using Astrometry'. Cross-matches VLBI and Gaia DR3 astrometry, fits a simple model to locate optical flare positions in AGNs using Gaia proper motions and light curves, and generates all publication figures.\n\nPlease see the README for more details.",
+  "keywords": [
+    "Gaia",
+    "VLBI",
+    "astrometry",
+    "blazars",
+    "optical flares",
+    "proper motion",
+    "AGN jets"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2603.26662",
+      "relation": "isSupplementTo",
+      "scheme": "arxiv"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "aas"
+    }
+  ]
+}
